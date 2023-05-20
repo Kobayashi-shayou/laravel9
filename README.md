@@ -36,8 +36,7 @@ composer require --working-dir=tools/php-cs-fixer friendsofphp/php-cs-fixer
 ./vendor/bin/phpstan analyze --memory-limit=2G
 ```
 
-
-##入っているもの
+## 入っているもの
 
 **Larastan**
 
